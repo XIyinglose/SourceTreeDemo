@@ -1,0 +1,20 @@
+From d07aebd5da4ec39111c941f5ecd6107984eb8d3a Mon Sep 17 00:00:00 2001
+From: "wangxiying01@beyondsoft.com" <wangxiying01@beyondsoft.com>
+Date: Thu, 11 Oct 2018 15:04:39 +0800
+Subject: [PATCH] =?UTF-8?q?=E7=AC=AC=E4=B8=80=E6=AC=A1=E6=96=B0=E6=8F=90?=
+ =?UTF-8?q?=E4=BA=A4=E7=9A=84=E6=96=87=E4=BB=B6?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 新添加文件.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 新添加文件.txt
+
+diff --git a/新添加文件.txt b/新添加文件.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.18.0.windows.1
+
