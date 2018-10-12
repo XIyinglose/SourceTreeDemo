@@ -22,3 +22,7 @@ eeeeeeeeeeeeeeee
 aaa
 
 aaaa
+
+Marquee only show on appledaily brand
+
+dddddd
